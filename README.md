@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B1BA9C8&center=true&vCenter=true&width=435&lines=Hello+World!+;Code.+Eat.+Learn.+Repeat.;Push.+Pull.+Merge.+Conflict.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=8B1BA9C8&center=true&vCenter=true&width=435&lines=Hello+World!+;Code.+Eat.+Learn.+Repeat.;Push.+Pull.+Merge.+Conflict.)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🚀 Exploring Scalable Logic & System Design — building platforms that generate real-world value through efficient architecture<br><br>• 🎓 CSE Undergraduate<br>• 🔭 Focused on learning through real-world projects<br>• 💻 Building in AI, Web Development & MERN stack<br>• 👩‍💻 Developed scalable systems in resource optimization, digital reservations, and automated financial simulations<br>• 🌍 Interested in solving real-world urban inefficiencies
